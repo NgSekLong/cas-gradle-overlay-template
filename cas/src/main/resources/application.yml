@@ -1,0 +1,5 @@
+cas.authn.pac4j.oidc[0].type: AZURE
+cas.authn.pac4j.oidc[0].azureTenantId: 'common'
+cas.authn.pac4j.oidc[0].id: id
+cas.authn.pac4j.oidc[0].secret: secret
+cas.authn.pac4j.oidc[0].logoutUrl: 'http://logout'
